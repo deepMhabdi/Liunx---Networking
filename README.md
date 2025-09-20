@@ -20,7 +20,7 @@ The goal of this journey is to:
 
 | Day | 📖 Topic | 🔗 Link |
 |-----|---------|---------|
-| 🟢 **Day 1** | 🏠 **Exploring the Linux Mansion** | [View Notes →](./Day01-Exploring-Linux/README.md) |
+| 🟢 **Day 1** | 🏠 **Exploring the Linux Mansion** | [View Notes →](Day1_Devops_Journey/README.md) |
 | 🟢 **Day 2** | ☕ **Internet Café — HTTPD & SystemCTL** | [View Notes →](./Day02-HTTPD-Systemctl/README.md) |
 | 🟢 **Day 3** | 🏫 **Linux School — Basics & Services** | [View Notes →](./Day03-Linux-Basics/README.md) |
 | 🟢 **Day 4** | 🚀 **Shell Scripting & User Management** | [View Notes →](./Day04-Shell-User/README.md) |
