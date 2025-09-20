@@ -21,17 +21,17 @@ The goal of this journey is to:
 | Day | 📖 Topic | 🔗 Link |
 |-----|---------|---------|
 | 🟢 **Day 1** | 🏠 **Exploring the Linux Mansion** | [View Notes →](Day1_Devops_Journey/README.md) |
-| 🟢 **Day 2** | ☕ **Internet Café — HTTPD & SystemCTL** | [View Notes →](Day02-HTTPD-Systemctl/README.md) |
-| 🟢 **Day 3** | 🏫 **Linux School — Basics & Services** | [View Notes →](Day03-Linux-Basics/README.md) |
-| 🟢 **Day 4** | 🚀 **Shell Scripting & User Management** | [View Notes →](Day04-Shell-User/README.md) |
-| 🟢 **Day 5** | 💡 **Reflection & Foundations** | [View Notes →](Day05-Reflection/README.md) |
-| 🟢 **Day 6** | 📬 **How the Internet Works (Postal Analogy)** | [View Notes →](Day06-Internet-Works/README.md) |
-| 🟢 **Day 7** | 🎮❤️ **OSI Model via PUBG Love Story** | [View Notes →](Day07-OSI-Model/README.md) |
-| 🟢 **Day 8** | 🌐🏡 **Networking & AWS VPC** | [View Notes →](Day08-Networking-VPC/README.md) |
-| 🟢 **Day 9** | ✌️ **Learn from Doing — External Resources** | [View Notes →](Day09-Learn-From-Doing/README.md) |
-| 🟢 **Day 10** | 🖥️ **Linux Practice: Core Commands & Structure** | [View Notes →](Day10-Linux-Core/README.md) |
-| 🟢 **Day 11** | 📝 **File Viewing & Log Inspection** | [View Notes →](Day11-Logs-Inspection/README.md) |
-| 🟢 **Day 12** | 🕵️🌍 **Text Search, Regex & Networking Tools** | [View Notes →](Day12-Regex-Networking/README.md) |
+| 🟢 **Day 2** | ☕ **Internet Café — HTTPD & SystemCTL** | [View Notes →](Day2_Devops_Journey/README.md) |
+| 🟢 **Day 3** | 🏫 **Linux School — Basics & Services** | [View Notes →](Day3_Devops_Journey/README.md) |
+| 🟢 **Day 4** | 🚀 **Shell Scripting & User Management** | [View Notes →](Day4_Devops_Journey/README.md) |
+| 🟢 **Day 5** | 💡 **Reflection & Foundations** | [View Notes →](Day5_Devops_Journey/README.md) |
+| 🟢 **Day 6** | 📬 **How the Internet Works (Postal Analogy)** | [View Notes →](Day6_Devops_Journey/README.md) |
+| 🟢 **Day 7** | 🎮❤️ **OSI Model via PUBG Love Story** | [View Notes →](Day7_Devops_Journey/README.md) |
+| 🟢 **Day 8** | 🌐🏡 **Networking & AWS VPC** | [View Notes →](Day8_Devops_Journey/README.md) |
+| 🟢 **Day 9** | ✌️ **Learn from Doing — External Resources** | [View Notes →](Day9_Devops_Journey/README.md) |
+| 🟢 **Day 10** | 🖥️ **Linux Practice: Core Commands & Structure** | [View Notes →](Day10_Devops_Journey/README.md) |
+| 🟢 **Day 11** | 📝 **File Viewing & Log Inspection** | [View Notes →](Day11_Devops_Journey/README.md) |
+| 🟢 **Day 12** | 🕵️🌍 **Text Search, Regex & Networking Tools** | [View Notes →](Day12_Devops_Journey/README.md) |
 | ⏳ **Day 13** | 📦 **Coming Soon...** | _Stay tuned!_ |
 
 ---
