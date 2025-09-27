@@ -1,4 +1,4 @@
-# Day 8: Process Management ⚙️
+# Day 16: Process Management ⚙️
 
 🚀 **Learn from doing** — today I explored how Linux manages **processes** behind the scenes.  
 
