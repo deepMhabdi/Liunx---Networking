@@ -35,6 +35,9 @@ The goal of this journey is to:
 | 🟢 **Day 13** | 📦 **File Search and Utilities** |[View Notes →](Day13_Devops_Journey/README.md) |
 | 🟢 **Day 14** | 📦 **File Comperession and Archiving** |[View Notes →](Day14_Devops_Journey/README.md) |
 | 🟢 **Day 15** | 📦 **User and Permission Management** |[View Notes →](Day15_Devops_Joureny) |
+| 🟢 **Day 16** | ⚙️ **Process Management** |[View Notes →](Day16_Devops_Journey) |
+| 🟢 **Day 17** | 💾 **Disk Usage & Monitoring** |[View Notes →](Day17_Devops_Journey) |
+| 🟢 **Day 18** | 🔐 **File Permissions Deep Dive** |[View Notes →](Day18_Devops_Joureny) |
 
 ---
 
