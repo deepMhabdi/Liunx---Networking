@@ -32,7 +32,9 @@ The goal of this journey is to:
 | 🟢 **Day 10** | 🖥️ **Linux Practice: Core Commands & Structure** | [View Notes →](Day10_Devops_Journey/README.md) |
 | 🟢 **Day 11** | 📝 **File Viewing & Log Inspection** | [View Notes →](Day11_Devops_Journey/README.md) |
 | 🟢 **Day 12** | 🕵️🌍 **Text Search, Regex & Networking Tools** | [View Notes →](Day12_Devops_Journey/README.md) |
-| ⏳ **Day 13** | 📦 **Coming Soon...** | _Stay tuned!_ |
+| 🟢 **Day 13** | 📦 **File Search and Utilities** |[View Notes →](Day13_Devops_Journey/README.md) |
+| 🟢 **Day 14** | 📦 **File Comperession and Archiving** |[View Notes →](Day14_Devops_Journey/README.md) |
+| 🟢 **Day 15** | 📦 **User and Permission Management** |[View Notes →](Day15_Devops_Journey/README.md) |
 
 ---
 
