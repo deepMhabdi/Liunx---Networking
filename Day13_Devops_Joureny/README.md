@@ -1,4 +1,4 @@
-# Day 5: File Search Utilities 🔍
+# Day 13: File Search Utilities 🔍
 
 🚀 **Learn from doing** — today was about learning how to **hunt files and commands** in Linux like a true detective.  
 

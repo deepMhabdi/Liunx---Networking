@@ -1,4 +1,4 @@
-# Day 7: User & Permission Management 👤🔑
+# Day 15: User & Permission Management 👤🔑
 
 🚀 **Learn from doing** — today was all about **security and access control** in Linux.  
 

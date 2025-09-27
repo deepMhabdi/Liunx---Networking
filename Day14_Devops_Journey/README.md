@@ -1,4 +1,4 @@
-# Day 6: File Compression & Archiving 📦
+# Day 14: File Compression & Archiving 📦
 
 🚀 **Learn from doing** — today I explored how Linux handles **backups, packaging, and compression** like a pro.  
 
